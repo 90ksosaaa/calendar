@@ -1,0 +1,31 @@
+table{
+    width: 100%;
+}
+h1{
+    text-center: center;
+}
+td,th{
+ border: 2px solid black;
+    width:14.27%;
+}
+th{
+    padding: 8px 0;
+}
+td{
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+
+.weekend {
+    background-color: purple;
+    color: white;
+}
+.weekday {
+    background-color: darkturquoise;
+    color:white;
+}
+.days {
+    background-color: orange;
+    color: white;
+}
